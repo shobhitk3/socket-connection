@@ -1,0 +1,19 @@
+{
+  "name": "apache_to_nodajs",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Asergis Telecom",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.15.4",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  }
+}
